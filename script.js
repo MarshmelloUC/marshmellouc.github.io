@@ -30,9 +30,9 @@ document.querySelectorAll(".quotes-slide").forEach(
 
 // ------------------------------------------- [ Preloader ] ----------------------------------------- \\
 
-var loader = document.getElementsByClassName('preloader-background')[0]
-var body = document.querySelector("body")
-window.addEventListener("load", function () {
-  loader.style.display = 'none';
-  body.style.overflow = "visible"
-})
+// var loader = document.getElementsByClassName('preloader-background')[0]
+// var body = document.querySelector("body")
+// window.addEventListener("load", function () {
+//   loader.style.display = 'none';
+//   body.style.overflow = "visible"
+// })
